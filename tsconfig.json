@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "lib": [
+      "es2018",
+      "dom"
+    ],
+    "noImplicitAny": false,
+    "outDir": "dist",
+    "resolveJsonModule": true,
+    "rootDir": ".",
+    "skipLibCheck": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*",
+    "test/**/*"
+  ]
+}

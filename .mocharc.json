@@ -1,0 +1,13 @@
+{
+  "diff": true,
+  "extension": [
+    "js",
+    "ts"
+  ],
+  "reporter": ["spec"],
+  "ui": "bdd",
+  "exit": true,
+  "full-trace": true,
+  "recursive": true,
+  "require": ["ts-node/register"]
+}
